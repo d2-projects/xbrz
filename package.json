@@ -4,6 +4,10 @@
   "description": "xBRZ javascript 实现",
   "main": "dist/xbrz.js",
   "module": "src/index.js",
+  "files": [
+    "dist/",
+    "src/"
+  ],
   "scripts": {
     "build": "webpack"
   },
