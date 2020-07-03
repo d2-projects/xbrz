@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/d2-projects/xbrz/compare/v1.0.0...v1.1.0) (2020-07-03)
+
+
+### Features
+
+* published ([2615929](https://github.com/d2-projects/xbrz/commit/26159299300d6d0803678330a5d0bf589a03905c))
+
 # 1.0.0 (2020-07-03)
 
 
