@@ -1,3 +1,10 @@
+# [1.4.0](https://github.com/d2-projects/xbrz/compare/v1.3.0...v1.4.0) (2020-07-04)
+
+
+### Features
+
+* :sparkles: 包装 API ([2eed02b](https://github.com/d2-projects/xbrz/commit/2eed02b7bea06f3eb3f7d20ce8c88a60848aebb1))
+
 # [1.3.0](https://github.com/d2-projects/xbrz/compare/v1.2.0...v1.3.0) (2020-07-03)
 
 

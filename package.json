@@ -1,6 +1,6 @@
 {
   "name": "@d2-projects/xbrz",
-  "version": "1.3.0",
+  "version": "1.4.0",
   "description": "xBRZ javascript 实现",
   "main": "dist/xbrz.js",
   "module": "src/index.js",
